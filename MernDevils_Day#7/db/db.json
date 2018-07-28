@@ -1,0 +1,7 @@
+{
+    "db": {
+        "port": 27017,
+        "host": "localhost",
+        "name": "Mern_Devils"
+    }
+}
